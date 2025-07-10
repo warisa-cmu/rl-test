@@ -11,4 +11,5 @@ dependencies = [
     "mealpy>=3.0.2",
     "pandas>=2.2.3",
     "stable-baselines3[extra]>=2.6.0",
+    "swig>=4.3.1",
 ]
